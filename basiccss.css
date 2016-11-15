@@ -4,6 +4,6 @@ body {
 h1 {
     font-family: cursive;
 }
-#frog {
+#frog, img {
     height:100px;
 }
