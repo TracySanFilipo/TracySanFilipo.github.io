@@ -10,7 +10,7 @@ h1 {
         background-image: url("fluffygrasscrop.jpg");
         background-position: center;
         background-repeat: no-repeat;
-        background-attachment: fixed;
+        background-attachment: scroll;
         height: inherit;
 }
 
@@ -22,7 +22,7 @@ h1 {
         background-image: url("bowloftrees.JPG");
         background-position: center;
         background-repeat: no-repeat;
-        background-attachment: fixed;
+        background-attachment: fixed;;
         min-height: 300px;
 }
 
@@ -34,7 +34,7 @@ h1 {
         background-image: url("waves.JPG");
         background-position: center;
         background-repeat: no-repeat;
-        background-attachment: fixed;
+        background-attachment: scroll;
         height: 900px;
 }
 
