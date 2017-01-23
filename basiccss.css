@@ -2,10 +2,6 @@ body {
     background-color: aliceblue;
 }
 
-h1 {
-    font-family: cursive;
-}
-
 .block1 {
         background-image: url("fluffygrasscrop.jpg");
         background-position: center;
@@ -40,4 +36,7 @@ h1 {
 
 #frog, img {
     height:100px;
+    font-family: cursive;
+    text-align: center;
+    font-size: 15pt;
 }
