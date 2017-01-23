@@ -8,19 +8,19 @@ body {
 }
 
 .block1 {
-        background-image: url("trees.JPG");
+        height: 150px;
+}
+
+.block2 {
+        background-image: url("waterthrough.JPG");
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: scroll;
         height: 900px;
 }
 
-.block2 {
-        height: 50px;
-}
-
 .block3 {
-        background-image: url("fluffygrass.jpg");
+        background-image: url("trees.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: fixed;;
@@ -32,15 +32,15 @@ body {
 }
 
 .block5 {
-        background-image: url("pathway.jpg");
-        background-position: center;
+        background-image: url("verticaltree.jpg");
+        background-position: right;;
         background-repeat: no-repeat;
         background-attachment: scroll;
         height: 900px;
 }
 
 #frog {
-    font-family: cursive;
+    font-family: 'Arapey', serif;
     text-align: center;
     font-size: 50pt;
     color: #1A1D08;
