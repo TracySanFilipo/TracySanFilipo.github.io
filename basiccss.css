@@ -7,11 +7,11 @@ h1 {
 }
 
 .block1 {
-        background-image: url("waves.JPG");
+        background-image: url("fluffygrass.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        min-height: 300px;
+        min-height: inherit;
 }
 
 .block2 {
@@ -31,11 +31,11 @@ h1 {
 }
 
 .block5 {
-        background-image: url("pathway.jpg");
+        background-image: url("waves.JPG");
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        min-height: 300px;
+        min-height: inherit;
 }
 
 #frog, img {
