@@ -37,6 +37,9 @@ body {
         background-repeat: no-repeat;
         background-attachment: scroll;
         height: 900px;
+        font-family: 'Arapey', serif;
+        text-align: center;
+        color: #cce7ff;
 }
 
 #frog {
