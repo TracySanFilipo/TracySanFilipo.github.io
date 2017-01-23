@@ -7,7 +7,7 @@ h1 {
 }
 
 .block1 {
-        background-image: url("fluffygrass.jpg");
+        background-image: url("fluffygrasscrop.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -27,7 +27,7 @@ h1 {
 }
 
 .block4 {
-        height: 400px;
+        height: 500px;
 }
 
 .block5 {
@@ -35,7 +35,7 @@ h1 {
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        height: 800px;
+        height: 900px;
 }
 
 #frog, img {
