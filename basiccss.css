@@ -1,9 +1,33 @@
 body {
     background-color: aliceblue;
 }
+
 h1 {
     font-family: cursive;
 }
+
+.block1 {
+        background-image: url("waves.jpg");
+        background-position: center;
+}
+
+.block2 {
+
+}
+
+.block3 {
+        background-image: url("bowloftrees.jpg");
+        background-position: center;
+}
+
+.block4 {
+}
+
+.block5 {
+        background-image: url("pathway.jpg");
+        background-position: center;
+}
+
 #frog, img {
     height:100px;
 }
