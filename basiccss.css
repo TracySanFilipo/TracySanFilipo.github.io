@@ -12,7 +12,7 @@ body {
 }
 
 .block2 {
-        background-image: url("waterthrough.JPG");
+        background-image: url("trees.JPG");
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: scroll;
@@ -20,7 +20,7 @@ body {
 }
 
 .block3 {
-        background-image: url("trees.JPG");
+        background-image: url("waterthrough.JPG");
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: fixed;;
