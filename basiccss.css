@@ -9,23 +9,33 @@ h1 {
 .block1 {
         background-image: url("waves.JPG");
         background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        min-height: 300px;
 }
 
 .block2 {
-
+        min-height: 300px;
 }
 
 .block3 {
         background-image: url("bowloftrees.JPG");
         background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        min-height: 300px;
 }
 
 .block4 {
+        min-height: 300px;
 }
 
 .block5 {
         background-image: url("pathway.jpg");
         background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        min-height: 300px;
 }
 
 #frog, img {
