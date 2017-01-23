@@ -34,14 +34,13 @@ body {
         height: 900px;
 }
 
-#frog, img {
-    height:100px;
-    text-align: left;
-}
-
-
 #frog {
     font-family: cursive;
     text-align: center;
-    font-size: 15pt;
+    font-size: 30pt;
+}
+
+#frog, img {
+    height:100px;
+    text-align: left;
 }
