@@ -20,7 +20,7 @@ body {
 }
 
 .block3 {
-        background-image: url("trees.jpg");
+        background-image: url("trees.JPG");
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: fixed;;
@@ -32,7 +32,7 @@ body {
 }
 
 .block5 {
-        background-image: url("verticaltree.jpg");
+        background-image: url("verticaltree.JPG");
         background-position: right;;
         background-repeat: no-repeat;
         background-attachment: scroll;
