@@ -8,11 +8,11 @@ body {
 }
 
 .block1 {
-        background-image: url("bowloftrees.JPG");
+        background-image: url("trees.JPG");
         background-position: center;
         background-repeat: no-repeat;
-        background-attachment: scroll;
-        height: 200px;
+        background-attachment: fixed;
+        height: 300px;
 }
 
 .block2 {
