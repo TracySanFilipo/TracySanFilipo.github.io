@@ -12,7 +12,7 @@ body {
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: scroll;
-        height: 800px;
+        height: 900px;
 }
 
 .block2 {
@@ -43,7 +43,7 @@ body {
     font-family: cursive;
     text-align: center;
     font-size: 50pt;
-    color: #41473D;
+    color: #1A1D08;
 }
 
 #frog, img {
