@@ -77,21 +77,6 @@ body {
     text-align: left;
 }
 
-#frog2 {
-    background-color: aliceblue;
-    border: 3px solid black;
-    margin: 30px;
-}
-
-#frog2 h8 {
-    font-family: 'Arapey', serif;
-    text-align: center;
-    font-size: 50pt;
-    color: #1A1D08;
-    margin: 5%;
-}
-
-
 .entry, img {
     height:100px;
     text-align: left;
