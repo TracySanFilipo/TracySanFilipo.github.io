@@ -44,10 +44,26 @@ body {
 
 .entry {
     background-color: aliceblue;
+    opacity: 0.6;
+    border: 1px solid black;
+    margin: 30px;
     color: #000000;
     font-family: 'Arapey', serif;
 }
 
+.entry h8 {
+    margin: 5%;
+    color: #000000;
+    font-family: 'Arapey', serif;
+    font-size: 30pt;
+}
+
+.entry p {
+    margin: 5%;
+    color: #000000;
+    font-family: 'Arapey', serif;
+    font-size: 20pt;
+}
 
 #frog {
     font-family: 'Arapey', serif;
