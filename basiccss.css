@@ -42,6 +42,13 @@ body {
         color: #cce7ff;
 }
 
+.entry {
+    background-color: aliceblue;
+    color: #000000;
+    font-family: 'Arapey', serif;
+}
+
+
 #frog {
     font-family: 'Arapey', serif;
     text-align: center;
@@ -50,6 +57,12 @@ body {
 }
 
 #frog, img {
+    height:100px;
+    text-align: left;
+}
+
+
+.entry, img {
     height:100px;
     text-align: left;
 }
