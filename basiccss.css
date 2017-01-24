@@ -32,11 +32,11 @@ body {
 }
 
 .block5 {
-        background-image: url("verticaltree.JPG");
+        background-image: url("treesfloor.JPG");
         background-position: right;;
         background-repeat: no-repeat;
         background-attachment: scroll;
-        height: 900px;
+        height: 500px;
         font-family: 'Arapey', serif;
         text-align: center;
         color: #cce7ff;
