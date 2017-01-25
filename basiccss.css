@@ -5,10 +5,12 @@ body {
     padding-right: 0;
     padding-bottom: 0;
     margin: 0;
+    color: #5600FF;
 }
 
 .block1 {
         height: 150px;
+        color: #5000FF;
 }
 
 .block2 {
@@ -17,6 +19,7 @@ body {
         background-repeat: no-repeat;
         background-attachment: scroll;
         height: 900px;
+        color: #330099;
 }
 
 .block3 {
@@ -29,6 +32,7 @@ body {
 
 .block4 {
         height: 500px;
+        color: #290099;
 }
 
 .block5 {
@@ -39,48 +43,66 @@ body {
         height: 500px;
         font-family: 'Arapey', serif;
         text-align: center;
-        color: #cce7ff;
-}
-
-.entry {
-    background-color: aliceblue;
-    opacity: 0.6;
-    border: 1px solid black;
-    width: 150px;
-    margin: 30px;
-    color: #000000;
-    font-family: 'Arapey', serif;
-}
-
-.entry h8 {
-    margin: 5%;
-    color: #000000;
-    font-family: 'Arapey', serif;
-    font-size: 30pt;
-}
-
-.entry p {
-    margin: 5%;
-    color: #000000;
-    font-family: 'Arapey', serif;
-    font-size: 20pt;
+        color: #300099;
 }
 
 #frog {
     font-family: 'Arapey', serif;
     text-align: center;
     font-size: 50pt;
-    color: #1A1D08;
+    color: #4600FF;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 0;
+    padding-bottom: 0;
+    margin: 0;
 }
 
 #frog, img {
     height:100px;
-    text-align: left;
+    text-align: right;
 }
+
+.block2 h5 {
+    font-family: 'Arapey', serif;
+    text-align: center;
+    font-size: 30pt;
+    padding-top: 10px;
+    padding-left: 20px;
+    color: #330099;
+}
+
+.entry {
+    background-color: aliceblue;
+    opacity: 0.6;
+    border: 1px solid black;
+    width: 500px;
+    height: auto;
+    margin: 30px;
+    font-family: 'Arapey', serif;
+}
+
+.entry h8 {
+    margin: 5%;
+    font-family: 'Arapey', serif;
+    font-size: 30pt;
+}
+
+.entry p {
+    margin: 5%;
+    font-family: 'Arapey', serif;
+    font-size: 20pt;
+}
+
 
 .entry, img {
     height:100px;
     text-align: left;
+}
+
+.block3, .col-md-4 {
+    text-align: center;
+    padding-top: 50px;
 }
 
 .col-md-4 {
