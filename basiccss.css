@@ -112,3 +112,27 @@ body {
 .col-md-4 {
     text-align: center;
 }
+
+.navbar {
+    background-color: aliceblue;
+    font-family: 'Arapey', serif;
+    color: #330099;
+    list-style: none;
+    border: none;
+}
+
+.navbar:hover {
+    background-color: aliceblue;
+    font-family: 'Arapey', serif;
+    color: #330099;
+    list-style: none;
+    border: none;
+}
+
+.navbar:active {
+    background-color: aliceblue;
+    font-family: 'Arapey', serif;
+    color: #330099;
+    list-style: none;
+    border: none;
+}
