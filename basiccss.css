@@ -117,7 +117,6 @@ body {
     background-color: aliceblue;
     font-family: 'Arapey', serif;
     color: #330099;
-    list-style: none;
     border: none;
 }
 
@@ -125,7 +124,6 @@ body {
     background-color: aliceblue;
     font-family: 'Arapey', serif;
     color: #330099;
-    list-style: none;
     border: none;
 }
 
@@ -133,6 +131,19 @@ body {
     background-color: aliceblue;
     font-family: 'Arapey', serif;
     color: #330099;
-    list-style: none;
     border: none;
+}
+
+.navbar:active {
+    background-color: aliceblue;
+    font-family: 'Arapey', serif;
+    color: #330099;
+    border: none;
+}
+a {
+    font-family: 'Arapey', serif;
+    color: #330099;
+}
+ul {
+    list-style-type: none;
 }
