@@ -83,14 +83,14 @@ body {
 }
 
 .entry h8 {
-    opacity: 0;
+    opacity: 1;
     margin: 5%;
     font-family: 'Arapey', serif;
     font-size: 30pt;
 }
 
 .entry p {
-    opacity: 0;
+    opacity: 1;
     margin: 5%;
     font-family: 'Arapey', serif;
     font-size: 20pt;
@@ -99,7 +99,7 @@ body {
 
 
 .entry, img {
-    opacity: 0;
+    opacity: 1;
     height:100px;
     text-align: left;
 }
