@@ -9,8 +9,9 @@ body {
 }
 
 .block1 {
-        height: 150px;
-        color: #5000FF;
+    width:100%;
+    height: 150px;
+    color: #5000FF;
 }
 
 .block2 {
@@ -18,7 +19,8 @@ body {
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: scroll;
-        height: 900px;
+        height: auto;
+        width: 100%;
         color: #330099;
 }
 
@@ -31,7 +33,8 @@ body {
 }
 
 .block4 {
-        height: 500px;
+        height: auto;
+        width: 100%;
         color: #290099;
 }
 
@@ -40,7 +43,8 @@ body {
         background-position: right;;
         background-repeat: no-repeat;
         background-attachment: scroll;
-        height: 500px;
+        height: auto;
+        width: 100%;
         font-family: 'Arapey', serif;
         text-align: center;
         color: #300099;
@@ -114,35 +118,41 @@ body {
 }
 
 .navbar {
+    width:100%;
     background-color: aliceblue;
     font-family: 'Arapey', serif;
     color: #330099;
     border: none;
 }
 
-.navbar:hover {
+.navbar-nav {
+    width:100%;
     background-color: aliceblue;
     font-family: 'Arapey', serif;
     color: #330099;
     border: none;
 }
 
-.navbar:active {
-    background-color: aliceblue;
+a:link {
     font-family: 'Arapey', serif;
     color: #330099;
-    border: none;
+    text-decoration: none;
 }
 
-.navbar:active {
-    background-color: aliceblue;
+a:visited {
     font-family: 'Arapey', serif;
     color: #330099;
-    border: none;
+    text-decoration: none;
 }
-a {
+a:hover {
     font-family: 'Arapey', serif;
     color: #330099;
+    text-decoration: none;
+}
+a:active {
+    font-family: 'Arapey', serif;
+    color: #330099;
+    text-decoration: none;
 }
 ul {
     list-style-type: none;
