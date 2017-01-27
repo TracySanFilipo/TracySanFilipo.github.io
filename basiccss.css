@@ -28,7 +28,8 @@ body {
         background-image: url("waterthrough.JPG");
         background-position: center;
         background-repeat: no-repeat;
-        background-attachment: fixed;;
+        background-attachment: fixed;
+        width: 100%;
         min-height: 300px;
 }
 
@@ -40,7 +41,7 @@ body {
 
 .block5 {
         background-image: url("treesfloor.JPG");
-        background-position: right;;
+        background-position: center;
         background-repeat: no-repeat;
         background-attachment: scroll;
         min-height: 300px;
@@ -60,11 +61,6 @@ body {
     padding-right: 0;
     padding-bottom: 0;
     margin: 0;
-}
-
-#frog, img {
-    height:auto;
-    text-align: right;
 }
 
 .block2 h5 {
