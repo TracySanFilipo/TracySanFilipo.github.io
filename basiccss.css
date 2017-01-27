@@ -33,7 +33,7 @@ body {
 }
 
 .block4 {
-        height: auto;
+        min-height: 300px;
         width: 100%;
         color: #290099;
 }
@@ -43,7 +43,7 @@ body {
         background-position: right;;
         background-repeat: no-repeat;
         background-attachment: scroll;
-        height: auto;
+        min-height: 300px;
         width: 100%;
         font-family: 'Arapey', serif;
         text-align: center;
@@ -63,7 +63,7 @@ body {
 }
 
 #frog, img {
-    height:100px;
+    height:auto;
     text-align: right;
 }
 
@@ -80,7 +80,7 @@ body {
     background-color: aliceblue;
     opacity: 0.6;
     border: 1px solid black;
-    width: 500px;
+    width: auto;
     height: auto;
     margin: 30px;
     font-family: 'Arapey', serif;
@@ -104,7 +104,7 @@ body {
 
 .entry, img {
     opacity: 1;
-    height:100px;
+    height:auto;
     text-align: left;
 }
 
