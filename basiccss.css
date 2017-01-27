@@ -132,6 +132,9 @@ body {
     color: #330099;
     border: none;
 }
+.brand img{
+    height: 25px;
+}
 
 a:link {
     font-family: 'Arapey', serif;
