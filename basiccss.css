@@ -5,13 +5,13 @@ body {
     padding-right: 0;
     padding-bottom: 0;
     margin: 0;
-    color: #5600FF;
+    color: #290099;
 }
 
 .block1 {
     width:100%;
     height: 150px;
-    color: #5000FF;
+    color: #290099;
 }
 
 .block2 {
@@ -21,7 +21,7 @@ body {
         background-attachment: scroll;
         height: auto;
         width: 100%;
-        color: #330099;
+        color: #290099;
 }
 
 .block3 {
@@ -48,7 +48,7 @@ body {
         width: 100%;
         font-family: 'Arapey', serif;
         text-align: center;
-        color: #300099;
+        color: #290099;
 }
 
 .about {
@@ -58,6 +58,11 @@ body {
     width: auto;
     height: 300px;
     margin: 30px;
+    font-family: 'Arapey', serif;
+}
+
+.about p{
+    opacity: 1;
     font-family: 'Arapey', serif;
 }
 
@@ -71,11 +76,16 @@ body {
     font-family: 'Arapey', serif;
 }
 
+.important h5{
+    opacity: 1;
+    font-family: 'Arapey', serif;
+}
+
 #frog {
     font-family: 'Arapey', serif;
     text-align: center;
     font-size: 50pt;
-    color: #4600FF;
+    color: #290099;
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 0;
@@ -89,7 +99,7 @@ body {
     font-size: 30pt;
     padding-top: 10px;
     padding-left: 20px;
-    color: #330099;
+    color: #290099;
 }
 
 .entry {
@@ -118,13 +128,13 @@ body {
 }
 
 
-.entry, img {
+.entry img {
     opacity: 1;
     height: 50px;
     text-align: left;
 }
 
-.block3, .col-md-4 {
+.block3 .col-md-4 {
     text-align: center;
     padding-top: 50px;
 }
@@ -137,7 +147,7 @@ body {
     width:100%;
     background-color: aliceblue;
     font-family: 'Arapey', serif;
-    color: #330099;
+    color: #290099;
     border: none;
 }
 
@@ -145,7 +155,7 @@ body {
     width:100%;
     background-color: aliceblue;
     font-family: 'Arapey', serif;
-    color: #330099;
+    color: #290099;
     border: none;
 }
 .brand img{
@@ -159,23 +169,23 @@ body {
 
 a:link {
     font-family: 'Arapey', serif;
-    color: #330099;
+    color: #290099;
     text-decoration: none;
 }
 
 a:visited {
     font-family: 'Arapey', serif;
-    color: #330099;
+    color: #290099;
     text-decoration: none;
 }
 a:hover {
     font-family: 'Arapey', serif;
-    color: #330099;
+    color: #290099;
     text-decoration: none;
 }
 a:active {
     font-family: 'Arapey', serif;
-    color: #330099;
+    color: #290099;
     text-decoration: none;
 }
 ul {
