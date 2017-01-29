@@ -37,6 +37,7 @@ body {
         min-height: 300px;
         width: 100%;
         color: #290099;
+        font-family: 'Arapey', serif;
 }
 
 .block5 {
@@ -46,44 +47,43 @@ body {
         background-attachment: scroll;
         min-height: 300px;
         width: 100%;
-        font-family: 'Arapey', serif;
         text-align: center;
         color: #290099;
 }
 
-.important {
+ul {
+    list-style-type: none;
+}
+
+.col-md-4 {
+    text-align: center;
+}
+
+.portfoliot {
     background-color: aliceblue;
     opacity: 0.6;
     border: 1px solid black;
     width: auto;
     height: auto;
     margin: 30px;
-    font-family: 'Arapey', serif;
 }
 
-.important h5{
+.portfolioh {
     opacity: 1;
     font-family: 'Arapey', serif;
 }
 
-#frog {
+.pagetitle {
     font-family: 'Arapey', serif;
     text-align: center;
     font-size: 50pt;
     color: #290099;
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 0;
-    padding-bottom: 0;
-    margin: 0;
 }
 
-.block2 h5 {
+.contactinfo {
     font-family: 'Arapey', serif;
-    text-align: center;
-    font-size: 30pt;
-    padding-top: 10px;
-    padding-left: 20px;
+    text-align: right;
+    font-size: 20pt;
     color: #290099;
 }
 
@@ -94,37 +94,34 @@ body {
     width: auto;
     height: 300px;
     margin: 30px;
-    font-family: 'Arapey', serif;
 }
 
-.entry h8 {
+.entcontenth {
+    opacity: 1;
+    margin: 5%;
+    font-family: 'Arapey', serif;
     font-size: 30pt;
     text-align: center;
 }
 
-.entry p {
+.entcontentp {
+    opacity: 1;
+    margin: 5%;
+    font-family: 'Arapey', serif;
     font-size: 20pt;
     text-align: left;
 }
 
-.entry img {
-    height: 50px;
-    text-align: left;
-}
-
-.entcontent {
+.entcontenti {
     opacity: 1;
     margin: 5%;
-    font-family: 'Arapey', serif;
+    height: 50px;
+    text-align: left;
 }
 
 .block3 .col-md-4 {
     text-align: center;
     padding-top: 50px;
-}
-
-.col-md-4 {
-    text-align: center;
 }
 
 .shadows {
@@ -134,26 +131,22 @@ body {
     width: auto;
     min-height: 300px;
     margin: 0;
-    font-family: 'Arapey', serif;
 }
 
-.shadowcontent {
-    opacity: 1;
+.aboutp {
     margin: 5%;
-    font-family: 'Arapey', serif;
-}
-
-.about {
     opacity: 1;
     font-family: 'Arapey', serif;
-}
-
-.about p{
     text-align: left;
+    color: #290099;
 }
 
-.about h5{
-    text-align: center;;
+.abouth {
+    margin: 5%;
+    opacity: 1;
+    font-family: 'Arapey', serif;
+    text-align: center;
+    color: #290099;
 }
 
 .navbar {
@@ -211,8 +204,4 @@ a:active {
     font-family: 'Arapey', serif;
     color: #290099;
     text-decoration: none;
-}
-
-ul {
-    list-style-type: none;
 }
