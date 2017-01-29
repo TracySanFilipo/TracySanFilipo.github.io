@@ -1,6 +1,6 @@
 body {
     background-color: aliceblue;
-    padding-top: 0;
+    padding-top: 70px;
     padding-left: 0;
     padding-right: 0;
     padding-bottom: 0;
@@ -112,24 +112,24 @@ body {
     font-family: 'Arapey', serif;
 }
 
-.entry h8 {
+.entcontent {
     opacity: 1;
     margin: 5%;
     font-family: 'Arapey', serif;
+}
+
+.entry h8 {
     font-size: 30pt;
+    text-align: center;
 }
 
 .entry p {
-    opacity: 1;
-    margin: 5%;
-    font-family: 'Arapey', serif;
     font-size: 20pt;
     text-align: left;
 }
 
 
 .entry img {
-    opacity: 1;
     height: 50px;
     text-align: left;
 }
@@ -143,8 +143,23 @@ body {
     text-align: center;
 }
 
+.shadows {
+    background-color: aliceblue;
+    opacity: 0.6;
+    border: 1px solid black;
+    width: auto;
+    min-height: 300px;
+    margin: 0;
+    font-family: 'Arapey', serif;
+}
+
+.shadowcontent {
+    opacity: 1;
+    margin: 5%;
+    font-family: 'Arapey', serif;
+}
+
 .navbar {
-    width:100%;
     background-color: aliceblue;
     font-family: 'Arapey', serif;
     color: #290099;
@@ -152,20 +167,25 @@ body {
 }
 
 .navbar-nav {
-    width:100%;
     background-color: aliceblue;
     font-family: 'Arapey', serif;
     color: #290099;
     border: none;
 }
+
 .brand img{
-    height: 40px;
+    height: 11px;
 }
 
 .scrolly img {
     height: 100px;
 }
 
+a {
+    font-family: 'Arapey', serif;
+    color: #290099;
+    text-decoration: none;
+}
 
 a:link {
     font-family: 'Arapey', serif;
@@ -178,16 +198,19 @@ a:visited {
     color: #290099;
     text-decoration: none;
 }
+
 a:hover {
     font-family: 'Arapey', serif;
     color: #290099;
     text-decoration: none;
 }
+
 a:active {
     font-family: 'Arapey', serif;
     color: #290099;
     text-decoration: none;
 }
+
 ul {
     list-style-type: none;
 }
