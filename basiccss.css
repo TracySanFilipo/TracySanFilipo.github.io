@@ -173,8 +173,13 @@ body {
     border: none;
 }
 
+.navbar-default .navbar-nav>li>a {
+    font-family: 'Arapey', serif;
+    color: #290099;
+}
+
 .brand img{
-    height: 11px;
+    height: 21px;
 }
 
 .scrolly img {
