@@ -1,11 +1,6 @@
 body {
     background-color: aliceblue;
     padding-top: 70px;
-    padding-left: 0;
-    padding-right: 0;
-    padding-bottom: 0;
-    margin: 0;
-    color: #290099;
 }
 
 .block1 {
@@ -15,6 +10,17 @@ body {
 }
 
 .block2 {
+        background-image: url("treesfloor.JPG");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        min-height: 300px;
+        width: 100%;
+        text-align: center;
+        color: #290099;
+}
+
+.block3 {
         background-image: url("trees.JPG");
         background-position: center;
         background-repeat: no-repeat;
@@ -24,7 +30,7 @@ body {
         color: #290099;
 }
 
-.block3 {
+.block4 {
         background-image: url("waterthrough.JPG");
         background-position: center;
         background-repeat: no-repeat;
@@ -33,22 +39,11 @@ body {
         min-height: 300px;
 }
 
-.block4 {
+.block5 {
         min-height: 300px;
         width: 100%;
         color: #290099;
         font-family: 'Arapey', serif;
-}
-
-.block5 {
-        background-image: url("treesfloor.JPG");
-        background-position: center;
-        background-repeat: no-repeat;
-        background-attachment: scroll;
-        min-height: 300px;
-        width: 100%;
-        text-align: center;
-        color: #290099;
 }
 
 ul {
@@ -96,7 +91,7 @@ ul {
     margin: 30px;
 }
 
-.entcontenth {
+h8 .entcontenth {
     opacity: 1;
     margin: 5%;
     font-family: 'Arapey', serif;
@@ -104,7 +99,7 @@ ul {
     text-align: center;
 }
 
-.entcontentp {
+p .entcontentp {
     opacity: 1;
     margin: 5%;
     font-family: 'Arapey', serif;
@@ -112,7 +107,7 @@ ul {
     text-align: left;
 }
 
-.entcontenti img {
+img .entcontenti {
     opacity: 1;
     margin: 5%;
     height: 50px;
@@ -153,14 +148,12 @@ ul {
     background-color: aliceblue;
     font-family: 'Arapey', serif;
     color: #290099;
-    border: none;
 }
 
 .navbar-nav {
     background-color: aliceblue;
     font-family: 'Arapey', serif;
     color: #290099;
-    border: none;
 }
 
 .navbar-default .navbar-nav>li>a {
