@@ -97,6 +97,7 @@ ul {
     font-family: 'Arapey', serif;
     font-size: 30pt;
     text-align: center;
+    z-index: 100;
 }
 
 .entcontentP p {
@@ -105,6 +106,7 @@ ul {
     font-family: 'Arapey', serif;
     font-size: 20pt;
     text-align: left;
+    z-index: 100;
 }
 
 .entcontentI img {
@@ -112,6 +114,7 @@ ul {
     margin: 5%;
     height: 50px;
     text-align: left;
+    z-index: 100;
 }
 
 .block3 .col-md-4 {
