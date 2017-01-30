@@ -91,7 +91,7 @@ ul {
     margin: 30px;
 }
 
-h8 .entcontenth {
+.entcontentH h6 {
     opacity: 1;
     margin: 5%;
     font-family: 'Arapey', serif;
@@ -99,7 +99,7 @@ h8 .entcontenth {
     text-align: center;
 }
 
-p .entcontentp {
+.entcontentP p {
     opacity: 1;
     margin: 5%;
     font-family: 'Arapey', serif;
@@ -107,7 +107,7 @@ p .entcontentp {
     text-align: left;
 }
 
-img .entcontenti {
+.entcontentI img {
     opacity: 1;
     margin: 5%;
     height: 50px;
