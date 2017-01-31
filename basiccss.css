@@ -56,7 +56,6 @@ ul {
 
 .portfoliot {
     background-color: aliceblue;
-    opacity: 0.6;
     border: 1px solid black;
     width: auto;
     height: auto;
@@ -64,7 +63,7 @@ ul {
 }
 
 .portfolioh {
-    opacity: 1;
+    font-size: 40pt;
     font-family: 'Arapey', serif;
 }
 
@@ -91,7 +90,6 @@ ul {
 }
 
 .entcontentH h6 {
-    opacity: 1;
     margin: 5%;
     font-family: 'Arapey', serif;
     font-size: 30pt;
@@ -99,7 +97,6 @@ ul {
 }
 
 .entcontentP p {
-    opacity: 1;
     margin: 5%;
     font-family: 'Arapey', serif;
     font-size: 20pt;
@@ -107,13 +104,12 @@ ul {
 }
 
 .entcontentI img {
-    opacity: 1;
     margin: 5%;
     height: 50px;
     text-align: left;
 }
 
-.block3 .col-md-4 {
+.block4 .col-md-4 {
     text-align: center;
     padding-top: 50px;
 }
@@ -144,20 +140,20 @@ ul {
 }
 
 .navbar {
-    background-color: aliceblue;
+    background-image: linear-gradient(#ffffff, #eeeeee 50%, #e4e4e4);
     font-family: 'Arapey', serif;
-    color: #290099;
+    color: #666666;
 }
 
 .navbar-nav {
-    background-color: aliceblue;
+    background-image: linear-gradient(#ffffff, #eeeeee 50%, #e4e4e4);
     font-family: 'Arapey', serif;
-    color: #290099;
+    color: #666666;
 }
 
 .navbar-default .navbar-nav>li>a {
     font-family: 'Arapey', serif;
-    color: #290099;
+    color: #666666;
 }
 
 .brand img{
