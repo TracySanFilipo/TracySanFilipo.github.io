@@ -32,7 +32,7 @@ body {
         background-attachment: scroll;
         height: auto;
         width: 100%;
-        color: #800000;
+        color: #004d26;
 }
 
 .block4 {
@@ -75,7 +75,6 @@ ul {
 .pagetitle {
     font-family: 'Arapey', serif;
     text-align: center;
-    font-size: 50pt;
     color: #290099;
 }
 
@@ -112,6 +111,14 @@ ul {
     margin: 5%;
     height: 50px;
     text-align: left;
+}
+
+.block5 h4 {
+    margin: 5%;
+    font-family: 'Arapey', serif;
+    font-size: 30pt;
+    text-align: center;
+    color: #1A1A3D;
 }
 
 .block4 .col-md-4 {
@@ -153,7 +160,12 @@ ul {
 }
 
 .brand img{
+    padding-top: 20px;
     height: 21px;
+}
+
+.scrolly {
+    font-size: 25px;
 }
 
 .scrolly img {
