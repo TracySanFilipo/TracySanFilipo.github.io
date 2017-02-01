@@ -14,7 +14,7 @@ body {
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: scroll;
-        min-height: 300px;
+        height: auto;
         width: 100%;
         text-align: center;
         color: #290099;
@@ -63,7 +63,7 @@ ul {
 }
 
 .portfolioh {
-    font-size: 40pt;
+    text-align: center;
     font-family: 'Arapey', serif;
 }
 
