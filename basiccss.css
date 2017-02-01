@@ -1,22 +1,21 @@
 body {
     background-color: aliceblue;
-    padding-top: 70px;
+    padding-top: 50px;
 }
 
 .block1 {
     background-image: url("myfeet.jpg");
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-attachment: scroll;
-    height: auto;
     width: 100%;
     text-align: center;
     color: #290099;
-    height: 600px;
+    height: auto;
 }
 
 .block2 {
-        background-color: #242429;
+        background-color: #1A1A3D;
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: scroll;
@@ -147,6 +146,10 @@ ul {
 .navbar-default .navbar-nav>li>a {
     font-family: 'Arapey', serif;
     color: #666666;
+}
+
+.profilepic img {
+    height: 200px;
 }
 
 .brand img{
