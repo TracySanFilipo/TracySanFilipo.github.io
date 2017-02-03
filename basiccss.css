@@ -6,12 +6,13 @@ body {
 .block1 {
     background-image: url("myfeet.jpg");
     background-position: top;
+    padding-top: 0px;
     background-repeat: no-repeat;
     background-attachment: scroll;
     width: 100%;
     text-align: center;
     color: #290099;
-    height: auto;
+    height: 800px;
 }
 
 .block2 {
@@ -142,17 +143,20 @@ ul {
     background-image: linear-gradient(#ffffff, #eeeeee 50%, #e4e4e4);
     font-family: 'Arapey', serif;
     color: #666666;
+    font-size: 16pt;
 }
 
 .navbar-nav {
     background-image: linear-gradient(#ffffff, #eeeeee 50%, #e4e4e4);
     font-family: 'Arapey', serif;
     color: #666666;
+    font-size: 16pt;
 }
 
 .navbar-default .navbar-nav>li>a {
     font-family: 'Arapey', serif;
     color: #666666;
+    font-size: 16pt;
 }
 
 .profilepic img {
