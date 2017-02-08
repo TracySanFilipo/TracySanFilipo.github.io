@@ -75,6 +75,7 @@ ul {
 
 .pagetitle {
     font-family: 'Arapey', serif;
+    margin-top: 30%;
     text-align: center;
     color: #290099;
 }
@@ -114,7 +115,7 @@ ul {
     text-align: left;
 }
 
-.block5 h4 {
+.block5 h2 {
     margin: 5%;
     font-family: 'Arapey', serif;
     font-size: 30pt;
