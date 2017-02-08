@@ -71,12 +71,14 @@ ul {
 .portfolioh {
     text-align: center;
     font-family: 'Arapey', serif;
+    font-size: 30pt;
 }
 
 .pagetitle {
     font-family: 'Arapey', serif;
-    margin-top: 30%;
+    padding-top: 30%;
     text-align: center;
+    font-size: 40pt;
     color: #290099;
 }
 
@@ -98,14 +100,14 @@ ul {
 .entcontentH h6 {
     margin: 5%;
     font-family: 'Arapey', serif;
-    font-size: auto;
+    font-size: 20pt;
     text-align: center;
 }
 
 .entcontentP p {
     margin: 5%;
     font-family: 'Arapey', serif;
-    font-size: 20pt;
+    font-size: 16pt;
     text-align: left;
 }
 
@@ -233,5 +235,40 @@ a:active {
 .scrolly a:active {
     font-family: 'Arapey', serif;
     color: #730000;
+    text-decoration: none;
+}
+
+.entry a {
+    font-family: 'Arapey', serif;
+    color: #730000;
+    font-size: 16pt;
+    text-decoration: none;
+}
+
+.entry a:link {
+    font-family: 'Arapey', serif;
+    color: #730000;
+    font-size: 16pt;
+    text-decoration: none;
+}
+
+.entry a:visited {
+    font-family: 'Arapey', serif;
+    color: #730000;
+    font-size: 16pt;
+    text-decoration: none;
+}
+
+.entry a:hover {
+    font-family: 'Arapey', serif;
+    color: #730000;
+    font-size: 16pt;
+    text-decoration: none;
+}
+
+.entry a:active {
+    font-family: 'Arapey', serif;
+    color: #730000;
+    font-size: 16pt;
     text-decoration: none;
 }
