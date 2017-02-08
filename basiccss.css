@@ -76,7 +76,6 @@ ul {
 
 .pagetitle {
     font-family: 'Arapey', serif;
-    padding-top: 70px;
     text-align: center;
     font-size: 50pt;
     color: #290099;
@@ -180,7 +179,7 @@ ul {
 .scrolly p {
     background-color: #cce6ff;
     border: 1px solid black;
-    width: auto;
+    width: 10%;
     height: auto;
     margin: 1px;
 }
