@@ -1,6 +1,6 @@
 body {
     background-color: aliceblue;
-    padding-top: 80px;
+    padding-top: 50px;
 }
 
 .block1 {
@@ -12,7 +12,7 @@ body {
     width: 100%;
     text-align: center;
     color: #290099;
-    height: 700px;
+    height: 300px;
 }
 
 .block2 {
@@ -78,7 +78,7 @@ ul {
     font-family: 'Arapey', serif;
     padding-top: 30%;
     text-align: center;
-    font-size: 40pt;
+    font-size: 50pt;
     color: #290099;
 }
 
@@ -178,6 +178,14 @@ ul {
     height: 100px;
 }
 
+.scrolly p {
+    background-color: #cce6ff;
+    border: 1px solid black;
+    width: auto;
+    height: auto;
+    margin: 1px;
+}
+
 a {
     font-family: 'Arapey', serif;
     color: #290099;
@@ -243,6 +251,8 @@ a:active {
     color: #730000;
     font-size: 16pt;
     text-decoration: none;
+    margin: 5%;
+    text-align: center;
 }
 
 .entry a:link {
@@ -250,6 +260,8 @@ a:active {
     color: #730000;
     font-size: 16pt;
     text-decoration: none;
+    margin: 5%;
+    text-align: center;
 }
 
 .entry a:visited {
@@ -257,6 +269,8 @@ a:active {
     color: #730000;
     font-size: 16pt;
     text-decoration: none;
+    margin: 5%;
+    text-align: center;
 }
 
 .entry a:hover {
@@ -264,6 +278,8 @@ a:active {
     color: #730000;
     font-size: 16pt;
     text-decoration: none;
+    margin: 5%;
+    text-align: center;
 }
 
 .entry a:active {
@@ -271,4 +287,6 @@ a:active {
     color: #730000;
     font-size: 16pt;
     text-decoration: none;
+    margin: 5%;
+    text-align: center;
 }
