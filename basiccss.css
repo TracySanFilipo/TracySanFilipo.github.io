@@ -98,7 +98,7 @@ ul {
 .entcontentH h6 {
     margin: 5%;
     font-family: 'Arapey', serif;
-    font-size: 30pt;
+    font-size: auto;
     text-align: center;
 }
 
