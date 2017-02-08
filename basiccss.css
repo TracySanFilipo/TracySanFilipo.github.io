@@ -4,7 +4,7 @@ body {
 }
 
 .block1 {
-    background-image: url("myfeet.jpg");
+    background-image: url("fluffygrass.jpg");
     background-position: top;
     padding-top: 0px;
     background-repeat: no-repeat;
@@ -140,14 +140,14 @@ ul {
 }
 
 .navbar {
-    background-image: linear-gradient(#ffffff, #f0f8ff 50%, #cce6ff);
+    background-image: linear-gradient(#ffffff, #f0f8ff, #cce6ff);
     font-family: 'Arapey', serif;
     color: #666666;
     font-size: 16pt;
 }
 
 .navbar-nav {
-    background-image: linear-gradient(#ffffff, #f0f8ff 50%, #cce6ff);
+    background-image: linear-gradient(#ffffff, #f0f8ff, #cce6ff);
     font-family: 'Arapey', serif;
     color: #666666;
     font-size: 16pt;
@@ -202,5 +202,35 @@ a:hover {
 a:active {
     font-family: 'Arapey', serif;
     color: #290099;
+    text-decoration: none;
+}
+
+.scrolly a {
+    font-family: 'Arapey', serif;
+    color: #730000;
+    text-decoration: none;
+}
+
+.scrolly a:link {
+    font-family: 'Arapey', serif;
+    color: #730000;
+    text-decoration: none;
+}
+
+.scrolly a:visited {
+    font-family: 'Arapey', serif;
+    color: #730000;
+    text-decoration: none;
+}
+
+.scrolly a:hover {
+    font-family: 'Arapey', serif;
+    color: #730000;
+    text-decoration: none;
+}
+
+.scrolly a:active {
+    font-family: 'Arapey', serif;
+    color: #730000;
     text-decoration: none;
 }
