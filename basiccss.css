@@ -76,7 +76,7 @@ ul {
 
 .pagetitle {
     font-family: 'Arapey', serif;
-    padding-top: 30%;
+    margin-top: 30%;
     text-align: center;
     font-size: 50pt;
     color: #290099;
@@ -111,10 +111,9 @@ ul {
     text-align: left;
 }
 
-.entcontentI img {
+.entcontentI {
     margin: 5%;
-    height: 50px;
-    text-align: left;
+    text-align: center;
 }
 
 .block5 h2 {
@@ -143,14 +142,14 @@ ul {
 }
 
 .navbar {
-    background-image: linear-gradient(#ffffff, #f0f8ff, #cce6ff);
+    background-image: linear-gradient(#f0f8ff, #e6f3ff, #cce6ff);
     font-family: 'Arapey', serif;
     color: #666666;
     font-size: 16pt;
 }
 
 .navbar-nav {
-    background-image: linear-gradient(#ffffff, #f0f8ff, #cce6ff);
+    background-image: linear-gradient(#f0f8ff, #e6f3ff, #cce6ff);
     font-family: 'Arapey', serif;
     color: #666666;
     font-size: 16pt;
