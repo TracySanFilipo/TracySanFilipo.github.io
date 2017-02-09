@@ -304,17 +304,17 @@ a:active {
 }
 
 .progress-bar-info {
-    background-image: linear-gradient(#ff4000, #ff3300 50%, #ff0000);
+    background-image: linear-gradient(#ccffff, #80ffff 50%, #1affff);
 }
 
 .progress-bar-success {
-    background-image: linear-gradient(#0000ff, #3300ff 50%, #4000ff);
+    background-image: linear-gradient(#ffaa80, #ff661a 50%, #ff5500);
 }
 
 .progress-bar-warning {
-    background-image: linear-gradient(#00ff00, #00ff33 50%, #00ff40);
+    background-image: linear-gradient(#b3ffe0, #33ffad 50%, #00ff99);
 }
 
 .progress-bar-danger {
-    background-image: linear-gradient(#ff0040, #ff0033 50%, #ff0000);
+    background-image: linear-gradient(#ff66b3, #ff0080 50%, #cc0066);
 }
