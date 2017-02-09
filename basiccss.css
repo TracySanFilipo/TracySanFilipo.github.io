@@ -179,16 +179,6 @@ ul {
     height: 100px;
 }
 
-.scrolly h6 {
-    background-color: #cce6ff;
-    border: 1px solid black;
-    width: 120px;
-    height: auto;
-    margin: 1px;
-    font-size: 25px;
-    text-align: center;
-}
-
 a {
     font-family: 'Arapey', serif;
     color: #290099;
@@ -233,7 +223,7 @@ a:active {
 
 .scrolly a:visited {
     font-family: 'Arapey', serif;
-    color: #730000;
+    color: #b30000;
     text-decoration: none;
 }
 
@@ -269,7 +259,7 @@ a:active {
 
 .entry a:visited {
     font-family: 'Arapey', serif;
-    color: #730000;
+    color: #b30000;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
