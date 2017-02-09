@@ -211,7 +211,7 @@ a:visited {
 
 a:hover {
     font-family: 'Arapey', serif;
-    color: #290099;
+    color: #1A1A3D;
     text-decoration: none;
 }
 
@@ -304,5 +304,17 @@ a:active {
 }
 
 .progress-bar-info {
-    background-image: linear-gradient(#ffffff, #cce6ff 50%, #b3dbff);
+    background-image: linear-gradient(#ff4000, #ff3300 50%, #ff0000);
+}
+
+.progress-bar-success {
+    background-image: linear-gradient(#0000ff, #3300ff 50%, #4000ff);
+}
+
+.progress-bar-warning {
+    background-image: linear-gradient(#00ff00, #00ff33 50%, #00ff40);
+}
+
+.progress-bar-danger {
+    background-image: linear-gradient(#ff0040, #ff0033 50%, #ff0000);
 }
