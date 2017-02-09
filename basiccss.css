@@ -5,7 +5,7 @@ body {
 
 .block1 {
     background-image: url("fluffygrass.jpg");
-    background-position: bottom;
+    background-position: top;
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 100%;
@@ -175,10 +175,9 @@ ul {
     height: 100px;
 }
 
-.scrolly p {
+.scrolly h6 {
     background-color: #cce6ff;
     border: 1px solid black;
-    width: 10%;
     height: auto;
     margin: 1px;
 }
