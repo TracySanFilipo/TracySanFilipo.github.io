@@ -6,6 +6,7 @@ body {
 .block1 {
     background-image: url("fluffygrass.jpg");
     background-position: top;
+    padding-top: 0px;
     background-repeat: no-repeat;
     background-attachment: scroll;
     width: 100%;
@@ -140,14 +141,14 @@ ul {
 }
 
 .navbar {
-    background-image: linear-gradient(#ffffff, #f0f8ff, #b3dbff);
+    background-image: linear-gradient(#ffffff, #cce6ff, #b3dbff);
     font-family: 'Arapey', serif;
     color: #666666;
     font-size: 16pt;
 }
 
 .navbar-nav {
-    background-image: linear-gradient(#ffffff, #f0f8ff, #b3dbff);
+    background-image: linear-gradient(#ffffff, #cce6ff, #b3dbff);
     font-family: 'Arapey', serif;
     color: #666666;
     font-size: 16pt;
@@ -167,7 +168,7 @@ ul {
 }
 
 .scrolly {
-    color: #730000;
+    color: #b30000;
     font-size: 25px;
     text-align: center;
 }
@@ -218,13 +219,13 @@ a:active {
 
 .scrolly a {
     font-family: 'Arapey', serif;
-    color: #730000;
+    color: #b30000;
     text-decoration: none;
 }
 
 .scrolly a:link {
     font-family: 'Arapey', serif;
-    color: #730000;
+    color: #b30000;
     text-decoration: none;
 }
 
@@ -248,7 +249,7 @@ a:active {
 
 .entry a {
     font-family: 'Arapey', serif;
-    color: #730000;
+    color: #b30000;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
@@ -257,7 +258,7 @@ a:active {
 
 .entry a:link {
     font-family: 'Arapey', serif;
-    color: #730000;
+    color: #b30000;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
