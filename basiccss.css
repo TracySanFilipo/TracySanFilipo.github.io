@@ -5,7 +5,7 @@ body {
 
 .block1 {
     background-image: url("fluffygrass.jpg");
-    background-position: top;
+    background-position: bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 100%;
@@ -76,7 +76,6 @@ ul {
 .pagetitle {
     font-family: 'Arapey', serif;
     text-align: center;
-    margin: 5%;
     font-size: 50pt;
     color: #290099;
 }
@@ -84,7 +83,6 @@ ul {
 .contactinfo {
     font-family: 'Arapey', serif;
     text-align: right;
-    margin: 5%;
     font-size: 20pt;
     color: #290099;
 }
