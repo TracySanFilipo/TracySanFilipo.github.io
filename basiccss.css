@@ -178,8 +178,10 @@ ul {
 .scrolly h6 {
     background-color: #cce6ff;
     border: 1px solid black;
+    width: 120px;
     height: auto;
     margin: 1px;
+    font-size: 25px;
 }
 
 a {
