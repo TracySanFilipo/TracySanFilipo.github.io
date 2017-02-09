@@ -6,7 +6,6 @@ body {
 .block1 {
     background-image: url("fluffygrass.jpg");
     background-position: top;
-    padding-top: 0px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 100%;
@@ -77,6 +76,7 @@ ul {
 .pagetitle {
     font-family: 'Arapey', serif;
     text-align: center;
+    margin: 5%;
     font-size: 50pt;
     color: #290099;
 }
@@ -84,6 +84,7 @@ ul {
 .contactinfo {
     font-family: 'Arapey', serif;
     text-align: right;
+    margin: 5%;
     font-size: 20pt;
     color: #290099;
 }
@@ -141,14 +142,14 @@ ul {
 }
 
 .navbar {
-    background-image: linear-gradient(#f0f8ff, #e6f3ff, #cce6ff);
+    background-image: linear-gradient(#ffffff, #f0f8ff, #b3dbff);
     font-family: 'Arapey', serif;
     color: #666666;
     font-size: 16pt;
 }
 
 .navbar-nav {
-    background-image: linear-gradient(#f0f8ff, #e6f3ff, #cce6ff);
+    background-image: linear-gradient(#ffffff, #f0f8ff, #b3dbff);
     font-family: 'Arapey', serif;
     color: #666666;
     font-size: 16pt;
