@@ -48,9 +48,21 @@ body {
 
 .block5 {
         min-height: 300px;
+        padding: 15px;
         width: 100%;
         color: #290099;
         font-family: 'Arapey', serif;
+}
+
+.bottom {
+        background-color: #b3dbff;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        height: 35px;
+        text-align: center;
+        width: 100%;
+        font-size: 15px;
 }
 
 ul {
@@ -282,4 +294,15 @@ a:active {
     text-decoration: none;
     margin: 5%;
     text-align: center;
+}
+
+.progress-bar {
+    font-family: 'Arapey', serif;
+    font-size: 16pt;
+    text-decoration: none;
+    text-align: left;
+}
+
+.progress-bar-info {
+    background-image: linear-gradient(#ffffff, #cce6ff 50%, #b3dbff);
 }
