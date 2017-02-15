@@ -299,7 +299,7 @@ a:active {
 .progress-bar {
     font-family: 'Arapey', serif;
     font-size: 16pt;
-    height: 20px;
+    height: 50px;
     text-decoration: none;
     text-align: left;
 }
