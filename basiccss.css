@@ -299,7 +299,7 @@ a:active {
 .progress-bar {
     font-family: 'Arapey', serif;
     font-size: 16pt;
-    height: 50px;
+    height: 50px !important;
     text-decoration: none;
     text-align: left;
 }
@@ -318,4 +318,56 @@ a:active {
 
 .progress-bar-danger {
     background-image: linear-gradient(#ffcf4d, #ffc21a 50%, #ffbb00);
+}
+
+.modal-header {
+    background-color: #cce6ff;
+}
+
+.modal-title h4 {
+    font-family: 'Arapey', serif;
+}
+
+.modal-body {
+    font-family: 'Arapey', serif;
+}
+
+.modal-footer {
+    background-color: #cce6ff;
+}
+
+.btn-primary {
+    background-color: #730000;
+    border-color: #730000;
+    font-family: 'Arapey', serif;
+}
+
+.btn-primary:hover  {
+    background-color: #730000;
+    border-color: #730000;
+    font-family: 'Arapey', serif;
+}
+
+.btn-primary:active  {
+    background-color: #730000;
+    border-color: #730000;
+    font-family: 'Arapey', serif;
+}
+
+.btn-default {
+    background-color: #730000;
+    border-color: #730000;
+    font-family: 'Arapey', serif;
+}
+
+.btn-default:hover  {
+    background-color: #730000;
+    border-color: #730000;
+    font-family: 'Arapey', serif;
+}
+
+.btn-default:active  {
+    background-color: #730000;
+    border-color: #730000;
+    font-family: 'Arapey', serif;
 }
