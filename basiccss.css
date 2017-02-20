@@ -1,6 +1,5 @@
 body {
     background-color: aliceblue;
-    padding-top: 50px;
 }
 
 .block1 {
@@ -223,31 +222,31 @@ a:active {
 
 .scrolly a {
     font-family: 'Arapey', serif;
-    color: #146c37;
+    color: #0c4121;
     text-decoration: none;
 }
 
 .scrolly a:link {
     font-family: 'Arapey', serif;
-    color: #146c37;
+    color: #0c4121;
     text-decoration: none;
 }
 
 .scrolly a:visited {
     font-family: 'Arapey', serif;
-    color: #146c37;
+    color: #0c4121;
     text-decoration: none;
 }
 
 .scrolly a:hover {
     font-family: 'Arapey', serif;
-    color: #0c4121;
+    color: #146c37;
     text-decoration: none;
 }
 
 .scrolly a:active {
     font-family: 'Arapey', serif;
-    color: #0c4121;
+    color: #146c37;
     text-decoration: none;
 }
 
