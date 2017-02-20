@@ -77,10 +77,13 @@ ul {
 }
 
 .place1 {
-    padding-top: 350px;
+    position: relative;
+    bottom: 50px;
 }
 
 .place2 {
+    position: relative;
+    bottom: 50px;
 }
 
 .portfoliot {
