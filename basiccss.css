@@ -126,7 +126,7 @@ ul {
 .entcontentI {
     margin: 5%;
     text-align: center;
-    color: #b30000;
+    color: #146c37;
 }
 
 .block5 h2 {
@@ -182,7 +182,7 @@ ul {
 }
 
 .scrolly {
-    color: #b30000;
+    color: #146c37;
     font-size: 25px;
     text-align: center;
 }
@@ -223,37 +223,37 @@ a:active {
 
 .scrolly a {
     font-family: 'Arapey', serif;
-    color: #b30000;
+    color: #146c37;
     text-decoration: none;
 }
 
 .scrolly a:link {
     font-family: 'Arapey', serif;
-    color: #b30000;
+    color: #146c37;
     text-decoration: none;
 }
 
 .scrolly a:visited {
     font-family: 'Arapey', serif;
-    color: #b30000;
+    color: #146c37;
     text-decoration: none;
 }
 
 .scrolly a:hover {
     font-family: 'Arapey', serif;
-    color: #730000;
+    color: #0c4121;
     text-decoration: none;
 }
 
 .scrolly a:active {
     font-family: 'Arapey', serif;
-    color: #730000;
+    color: #0c4121;
     text-decoration: none;
 }
 
 .entry a {
     font-family: 'Arapey', serif;
-    color: #b30000;
+    color: #146c37;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
@@ -262,7 +262,7 @@ a:active {
 
 .entry a:link {
     font-family: 'Arapey', serif;
-    color: #b30000;
+    color: #146c37;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
@@ -271,7 +271,7 @@ a:active {
 
 .entry a:visited {
     font-family: 'Arapey', serif;
-    color: #b30000;
+    color: #146c37;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
@@ -280,7 +280,7 @@ a:active {
 
 .entry a:hover {
     font-family: 'Arapey', serif;
-    color: #730000;
+    color: #0c4121;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
@@ -289,17 +289,20 @@ a:active {
 
 .entry a:active {
     font-family: 'Arapey', serif;
-    color: #730000;
+    color: #0c4121;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
     text-align: center;
 }
 
+.progress {
+    height: 50px !important;
+}
+
 .progress-bar {
     font-family: 'Arapey', serif;
     font-size: 16pt;
-    height: 50px !important;
     text-decoration: none;
     text-align: left;
 }
@@ -337,37 +340,61 @@ a:active {
 }
 
 .btn-primary {
-    background-color: #730000;
-    border-color: #730000;
+    background-color: #0099ff;
+    border-color: #005c99;
     font-family: 'Arapey', serif;
 }
 
 .btn-primary:hover  {
-    background-color: #730000;
-    border-color: #730000;
+    background-color: #006bb3;
+    border-color: #004d80;
     font-family: 'Arapey', serif;
 }
 
 .btn-primary:active  {
-    background-color: #730000;
-    border-color: #730000;
+    background-color: #006bb3;
+    border-color: #004d80;
+    font-family: 'Arapey', serif;
+}
+
+.btn-primary:link  {
+    background-color: #0099ff;
+    border-color: #005c99;
+    font-family: 'Arapey', serif;
+}
+
+.btn-primary:visited  {
+    background-color: #006bb3;
+    border-color: #004d80;
     font-family: 'Arapey', serif;
 }
 
 .btn-default {
-    background-color: #730000;
-    border-color: #730000;
+    background-color: #ffb24d;
+    border-color: #cc7400;
     font-family: 'Arapey', serif;
 }
 
 .btn-default:hover  {
-    background-color: #730000;
-    border-color: #730000;
+    background-color: #ff9c1a;
+    border-color: #995700;
     font-family: 'Arapey', serif;
 }
 
 .btn-default:active  {
-    background-color: #730000;
-    border-color: #730000;
+    background-color: #ff9c1a;
+    border-color: #995700;
+    font-family: 'Arapey', serif;
+}
+
+.btn-default:link  {
+    background-color: #ff9c1a;
+    border-color: #995700;
+    font-family: 'Arapey', serif;
+}
+
+.btn-default:visited  {
+    background-color: #ff9c1a;
+    border-color: #995700;
     font-family: 'Arapey', serif;
 }
