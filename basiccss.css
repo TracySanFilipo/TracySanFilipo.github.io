@@ -360,6 +360,7 @@ a:active {
 .setsize {
     height: 35px;
     width: 240px;
+    resize: none;
 }
 
 .modal-footer {
