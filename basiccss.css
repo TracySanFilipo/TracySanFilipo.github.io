@@ -205,6 +205,11 @@ ul {
     height: 100px;
 }
 
+.backblue {
+    border: solid 1px #ffffff;
+    background-color: aliceblue;
+}
+
 a {
     font-family: 'Arapey', serif;
     color: #290099;
