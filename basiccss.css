@@ -78,7 +78,7 @@ ul {
 
 .place1 {
     position: relative;
-    top: 250px;
+    top: 210px;
 }
 
 .place2 {
@@ -267,7 +267,7 @@ a:active {
 
 .entry a {
     font-family: 'Arapey', serif;
-    color: #146c37;
+    color: #cc7400;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
@@ -276,7 +276,7 @@ a:active {
 
 .entry a:link {
     font-family: 'Arapey', serif;
-    color: #146c37;
+    color: #cc7400;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
@@ -285,7 +285,7 @@ a:active {
 
 .entry a:visited {
     font-family: 'Arapey', serif;
-    color: #146c37;
+    color: #cc7400;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
@@ -294,7 +294,7 @@ a:active {
 
 .entry a:hover {
     font-family: 'Arapey', serif;
-    color: #0c4121;
+    color: #995700;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
@@ -303,7 +303,7 @@ a:active {
 
 .entry a:active {
     font-family: 'Arapey', serif;
-    color: #0c4121;
+    color: #995700;
     font-size: 16pt;
     text-decoration: none;
     margin: 5%;
