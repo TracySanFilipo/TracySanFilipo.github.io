@@ -352,6 +352,11 @@ a:active {
     font-size: 16pt;
 }
 
+.setsize {
+    height: 35px;
+    width: 240px;
+}
+
 .modal-footer {
     background-color: #cce6ff;
 }
