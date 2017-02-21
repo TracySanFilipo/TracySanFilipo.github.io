@@ -78,7 +78,7 @@ ul {
 
 .place1 {
     position: relative;
-    bottom: 10px;
+    top: 300px;
 }
 
 .place2 {
@@ -203,11 +203,6 @@ ul {
 
 .scrolly img {
     height: 100px;
-}
-
-.backblue {
-    border: solid 1px #ffffff;
-    background-color: aliceblue;
 }
 
 a {
