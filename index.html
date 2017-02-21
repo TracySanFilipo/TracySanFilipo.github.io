@@ -44,13 +44,13 @@
                     <h4 class="modal-title">Contact Information</h4>
                 </div>
                 <div class="modal-body">
-                    E-mail: tracysanfilipo@gmail.com
+                    E-mail: <textarea id="email">tracysanfilipo@gmail.com</textarea>
                     <br>
                     GitHub: <a href="https://github.com/TracySanFilipo">https://github.com/TracySanFilipo</a>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Copy E-mail</button>
+                    <button type="button" class="btn btn-primary" onclick="copyemail()">Copy E-mail</button>
                 </div>
             </div>
         </div>
@@ -199,7 +199,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="scrolly">
-                    <a href="https://github.com/TracySanFilipo" ><img src="octocat1.svg"/><br>GitHub</a>
+                    <a href="https://github.com/TracySanFilipo" ><img src="octocat1.svg"/><br><textarea>GitHub</textarea></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -207,7 +207,7 @@
             </div>
             <div class="col-md-4">
                 <div class="scrolly">
-                    <a href="https://docs.google.com/document/d/1DkfXdkkJnlLcXLBWr3dsr0cM-6X_kth8n02LR7XCqIM/edit?usp=sharing" >Resume</a>
+                    <a href="https://docs.google.com/document/d/1DkfXdkkJnlLcXLBWr3dsr0cM-6X_kth8n02LR7XCqIM/edit?usp=sharing" ><textarea>Resume</textarea></a>
                 </div>
             </div>
         </div>
@@ -244,5 +244,6 @@
     </div>
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="profile.js"></script>
 </body>
 </html>
