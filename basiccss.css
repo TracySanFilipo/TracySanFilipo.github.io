@@ -78,7 +78,7 @@ ul {
 
 .place1 {
     position: relative;
-    top: 210px;
+    top: 190px;
 }
 
 .place2 {
@@ -341,6 +341,7 @@ a:active {
 
 .modal-header {
     background-color: #cce6ff;
+    font-family: 'Arapey', serif;
 }
 
 .modal-title h4 {
